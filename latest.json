@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "apk": "https://gstandtv.github.io/GrandStand-0.3.0.apk",
+  "sha256": "ec5925d5d34b53e50f0aecd3cb5e91868508cd3be36af377da057bec847ea8ca",
+  "size": 13131940,
+  "notes": "Subtitles now off by default, with a Subtitles button in the player. UFC, MMA and boxing. Free To Air TV. Updates itself when opened."
+}
