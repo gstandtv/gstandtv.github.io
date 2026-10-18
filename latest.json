@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.2",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.2.apk",
-  "sha256": "2e624370881a726ef5ad9bb7ad8753d9ce1becbcd86d09902bcde6393a6a817c",
-  "size": 13542264,
-  "notes": "Fixes cricket links (the cricket site changed its player)."
+  "versionCode": 10,
+  "versionName": "0.5.3",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.3.apk",
+  "sha256": "ecdda3c8a8058931314f1f2a8ab0c8827a655409dc286e35bf7cc0baad1f2587",
+  "size": 19428481,
+  "notes": "Movies & TV Shows now play sound on every Firestick, including ones set to stereo (Dolby, DTS and TrueHD sound decoded in the app)."
 }
