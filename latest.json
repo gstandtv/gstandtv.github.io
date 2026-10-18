@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apk": "https://gstandtv.github.io/GrandStand-0.4.0.apk",
-  "sha256": "c71e371b4025ce3e52558d4fc06e6d3703d48e8002e0007a5567e06f44599234",
-  "size": 13148324,
-  "notes": "Split screen: watch two streams side by side or picture in picture. Cricket. More 1080p channels per game, plus Fox, beIN and Sky sports channels in Live TV."
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "apk": "https://gstandtv.github.io/GrandStand-0.4.1.apk",
+  "sha256": "ded585eaee7b5b4458c2cde10b7ac81329edd6173ebf0c8b143d7fe07cb1bd68",
+  "size": 13164712,
+  "notes": "Fixes VipRow and Fox/beIN/Sky channels (DaddyLive now needs a playlist token) and cricket links."
 }
