@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.0",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.0.apk",
-  "sha256": "40bc66c1d3fe03f519a6aa0bb541cdbaf1298d4abe26b39d36ceb6ae68ce545e",
-  "size": 13509496,
-  "notes": "New: Movies & TV Shows. Browse and search movies and shows, then play them through your own TorBox or Real-Debrid account (link it by scanning a code). English versions only, resume where you left off, subtitles and audio choices."
+  "versionCode": 8,
+  "versionName": "0.5.1",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.1.apk",
+  "sha256": "099a4a97b6c4dd9a43948eff8e1f3032ab57b34d17600ea1a9808b8f4535e939",
+  "size": 13542260,
+  "notes": "Continue watching and auto next episode in Movies & TV Shows. Backup links for NFL, NBA and F1. GrandStand now needs an access code (ask the developer). Smoother recovery when a movie stream hiccups, and tidier Settings."
 }
