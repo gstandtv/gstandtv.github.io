@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.4.2",
-  "apk": "https://gstandtv.github.io/GrandStand-0.4.2.apk",
-  "sha256": "42bc073ce905cec34ad1323996f3aa54dd44a290520ccb1244942be1e38c779f",
-  "size": 13165432,
-  "notes": "Backup links for football, ice hockey and more from extra sites. Better compatibility with some stream sites."
+  "versionCode": 7,
+  "versionName": "0.5.0",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.0.apk",
+  "sha256": "40bc66c1d3fe03f519a6aa0bb541cdbaf1298d4abe26b39d36ceb6ae68ce545e",
+  "size": 13509496,
+  "notes": "New: Movies & TV Shows. Browse and search movies and shows, then play them through your own TorBox or Real-Debrid account (link it by scanning a code). English versions only, resume where you left off, subtitles and audio choices."
 }
