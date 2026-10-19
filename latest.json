@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.5.5",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.5.apk",
-  "sha256": "9a7bdf19e9f6f3ce69c9cda5dd429bb894aa3791279e4e9a2458cafb5be64c17",
-  "size": 19428481,
-  "notes": "Smoother live sport: big streams download in pieces at once, so fewer freezes on heavy 1080p channels."
+  "versionCode": 13,
+  "versionName": "0.5.6",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.6.apk",
+  "sha256": "87debf71525eb8a560a7a7b51fb36f056073737e7d47f40fc472f23dd04b7e82",
+  "size": 19428485,
+  "notes": "Up next now appears as soon as the end credits start (and moves on after 10 seconds when the credit time is reliable). Rewatching a finished episode starts from the beginning."
 }
