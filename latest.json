@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.3",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.3.apk",
-  "sha256": "ecdda3c8a8058931314f1f2a8ab0c8827a655409dc286e35bf7cc0baad1f2587",
+  "versionCode": 11,
+  "versionName": "0.5.4",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.4.apk",
+  "sha256": "087cc3925106af1d7d90a8a6c82473397ec3a19bc8bc078aeb571f4bab12bafb",
   "size": 19428481,
-  "notes": "Movies & TV Shows now play sound on every Firestick, including ones set to stereo (Dolby, DTS and TrueHD sound decoded in the app)."
+  "notes": "New TVs can now be approved by their device ID (shown on the start screen). Access codes still work."
 }
