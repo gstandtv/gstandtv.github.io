@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.5.6",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.6.apk",
-  "sha256": "87debf71525eb8a560a7a7b51fb36f056073737e7d47f40fc472f23dd04b7e82",
-  "size": 19428485,
-  "notes": "Up next now appears as soon as the end credits start (and moves on after 10 seconds when the credit time is reliable). Rewatching a finished episode starts from the beginning."
+  "versionCode": 14,
+  "versionName": "0.5.7",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.7.apk",
+  "sha256": "8d2f90430892254bd64ff2b87c79f31ad1b1bcdc1a606bcbfa594672677c8b29",
+  "size": 19543169,
+  "notes": "New: Replays under Sports (AFL and AFLW from AFL.com.au, F1 weekends through TorBox, NFL, college football, NBA, WNBA, college basketball, boxing and UFC). New: Twitch in the menu, with your channels, what's live, categories and search, and ads skipped."
 }
