@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.5.7",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.7.apk",
-  "sha256": "8d2f90430892254bd64ff2b87c79f31ad1b1bcdc1a606bcbfa594672677c8b29",
-  "size": 19543169,
-  "notes": "New: Replays under Sports (AFL and AFLW from AFL.com.au, F1 weekends through TorBox, NFL, college football, NBA, WNBA, college basketball, boxing and UFC). New: Twitch in the menu, with your channels, what's live, categories and search, and ads skipped."
+  "versionCode": 15,
+  "versionName": "0.5.8",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.8.apk",
+  "sha256": "088d5e79ff633420a77e7e5ba460b1d0116da5555db3ada7dfb1a5602751e5a4",
+  "size": 19559557,
+  "notes": "New: Skip intro for TV shows. Recent searches and new-episode badges in Movies & TV Shows, and hold OK on Continue watching to remove a show. Live is now Live Sport, grouped by sport. Opens faster. Twitch is smoother. Search removed from the menu."
 }
