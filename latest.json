@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.5.9",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.9.apk",
-  "sha256": "517d727f9b44b3934aad7c1ff197bb123756ff3a76ef8facb0013c2edd5c225e",
-  "size": 19559553,
-  "notes": "New episodes and seasons show up sooner (Aussie Shore season 3 is there now). Movies & TV search finds the right show first, tries again if it doesn't answer, and MAFS finds Married at First Sight Australia."
+  "versionCode": 17,
+  "versionName": "0.5.10",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.10.apk",
+  "sha256": "d311168263234318d6c6b0d8949452370496bd8e5acbf0ee2f7e57596a87240f",
+  "size": 19559557,
+  "notes": "UFC events now show up in Live Sport (UFC 333 fix)"
 }
