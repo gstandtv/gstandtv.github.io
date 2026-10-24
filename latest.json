@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.5.8",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.8.apk",
-  "sha256": "088d5e79ff633420a77e7e5ba460b1d0116da5555db3ada7dfb1a5602751e5a4",
-  "size": 19559557,
-  "notes": "New: Skip intro for TV shows. Recent searches and new-episode badges in Movies & TV Shows, and hold OK on Continue watching to remove a show. Live is now Live Sport, grouped by sport. Opens faster. Twitch is smoother. Search removed from the menu."
+  "versionCode": 16,
+  "versionName": "0.5.9",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.9.apk",
+  "sha256": "517d727f9b44b3934aad7c1ff197bb123756ff3a76ef8facb0013c2edd5c225e",
+  "size": 19559553,
+  "notes": "New episodes and seasons show up sooner (Aussie Shore season 3 is there now). Movies & TV search finds the right show first, tries again if it doesn't answer, and MAFS finds Married at First Sight Australia."
 }
