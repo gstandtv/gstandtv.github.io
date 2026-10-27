@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.10",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.10.apk",
-  "sha256": "d311168263234318d6c6b0d8949452370496bd8e5acbf0ee2f7e57596a87240f",
-  "size": 19559557,
-  "notes": "UFC events now show up in Live Sport (UFC 333 fix)"
+  "versionCode": 18,
+  "versionName": "0.5.11",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.11.apk",
+  "sha256": "7aa500312eb037886f887712218231165da14a4bcedc6f273d9d57a3aef67942",
+  "size": 19575941,
+  "notes": "Football, NBA, NHL and tennis back while VipRow is down. BuffStreams added for UFC and boxing. Main UFC cards featured on Home with the smoothest 1080p link first. New prompt when a link keeps freezing: OK to try the next link, Back to stay."
 }
