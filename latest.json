@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.5.11",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.11.apk",
-  "sha256": "7aa500312eb037886f887712218231165da14a4bcedc6f273d9d57a3aef67942",
+  "versionCode": 19,
+  "versionName": "0.5.12",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.12.apk",
+  "sha256": "cdf322e888a661c50032bcfa5d5b5cfcd3ebc040cd64469c02718ffcad3117d4",
   "size": 19575941,
-  "notes": "Football, NBA, NHL and tennis back while VipRow is down. BuffStreams added for UFC and boxing. Main UFC cards featured on Home with the smoothest 1080p link first. New prompt when a link keeps freezing: OK to try the next link, Back to stay."
+  "notes": "When DaddyLive's stream server is offline, GrandStand skips its links straight away and plays the working ones first."
 }
