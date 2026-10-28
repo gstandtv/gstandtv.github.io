@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.5.12",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.12.apk",
-  "sha256": "cdf322e888a661c50032bcfa5d5b5cfcd3ebc040cd64469c02718ffcad3117d4",
-  "size": 19575941,
-  "notes": "When DaddyLive's stream server is offline, GrandStand skips its links straight away and plays the working ones first."
+  "versionCode": 20,
+  "versionName": "0.5.13",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.13.apk",
+  "sha256": "b1b13df34171c10f27e696ba019fca1d22734af468f78e30e0e0d65067cc47ba",
+  "size": 19575945,
+  "notes": "NBA and NHL: VipRow's working League Pass and Gamecenter links now go to the top of the list."
 }
