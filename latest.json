@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.5.14",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.14.apk",
-  "sha256": "d0e24bb00e231e4ff91f6b1fcc4d58193bcb6a0db163ff9abfc4f24fc1ad6e0c",
+  "versionCode": 22,
+  "versionName": "0.5.15",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.15.apk",
+  "sha256": "290274b2cec08211217722f8ee93ac63e839dacc9e2728bd0dbdedfb74bf39b9",
   "size": 19575941,
-  "notes": "StreamFree added: 1080p links for live NBA/NHL/MLB and more, plus its Sky Sports F1/Tennis/Cricket and Willow channels on live games. DaddyLive's game list reads again after a date typo on their page."
+  "notes": "RugbyBox, MMABox and CricWatch links play again. Live streams stay at 720p or better. The 1 GB Firestick no longer closes the app or freezes at startup."
 }
