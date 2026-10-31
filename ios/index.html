@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GrandStand for iPhone</title>
+<style>
+body{margin:0;background:#040B1C;color:#F2F4F7;font:17px/1.55 system-ui,-apple-system,sans-serif}
+main{max-width:720px;margin:0 auto;padding:28px 18px 60px}
+h1{font-size:30px;margin:0 0 4px}h2{font-size:21px;margin:34px 0 8px;color:#0094FE}
+.sub{color:#8A97B0;margin:0 0 18px}
+ol{padding-left:22px}li{margin:8px 0}
+.box{background:#0D1A33;border:1px solid #1C2B4A;border-radius:12px;padding:14px 16px;margin:14px 0}
+a{color:#4FB2FF}
+.btn{display:inline-block;margin:6px 8px 6px 0;padding:13px 20px;border-radius:10px;background:#0094FE;color:#021026;font-weight:700;text-decoration:none}
+code{background:#16294F;padding:2px 6px;border-radius:6px;word-break:break-all}
+small{color:#8A97B0}
+</style></head>
+<body><main>
+<h1>GrandStand for iPhone &amp; iPad</h1>
+<p class="sub">Version 0.1.1 · First iPhone &amp; iPad version: live sport, Live TV, Twitch, replays, and movies &amp; TV with TorBox.</p>
+
+<div class="box">Apple only lets apps from outside the App Store onto an iPhone through a helper app called
+<b>SideStore</b>. You set it up once with a computer (about 15 minutes); after that everything happens on the phone.
+It's free and uses your own Apple ID.</div>
+
+<h2>You'll need</h2>
+<ul>
+<li>A Windows PC or Mac, just for the first setup, and a cable for your iPhone</li>
+<li>An iPhone or iPad on iOS 16 or later, with a passcode</li>
+<li>An Apple ID. A spare one is best (it's only used to sign the apps), but your own works too</li>
+<li>Wi-Fi</li>
+</ul>
+
+<h2>1. On the computer</h2>
+<ol>
+<li>Windows only: install <a href="https://www.apple.com/itunes/download/win64">iTunes</a> (it lets the PC talk to the iPhone).</li>
+<li>Install <a href="https://iloader.app">iloader</a> and open it.</li>
+<li>Plug in the iPhone. On the phone, tap <b>Trust</b> and enter your passcode.</li>
+<li>In iloader, sign in with your Apple ID, pick your phone, and choose <b>Install SideStore (Stable)</b>.</li>
+</ol>
+
+<h2>2. On the iPhone</h2>
+<ol>
+<li><b>Settings › General › VPN &amp; Device Management</b>: tap your Apple ID under Developer App, then <b>Trust</b>.</li>
+<li><b>Settings › Privacy &amp; Security › Developer Mode</b>: turn it on. The phone restarts; confirm with your passcode.</li>
+<li>Install <a href="https://apps.apple.com/app/localdevvpn/id6755608044">LocalDevVPN</a> from the App Store, open it and tap
+<b>Connect</b> (allow it when asked). It never leaves the phone: it's how SideStore installs and renews apps without a computer.</li>
+<li>Open <b>SideStore</b> and sign in with the same Apple ID.</li>
+</ol>
+
+<h2>3. Get GrandStand</h2>
+<ol>
+<li>On the iPhone, tap: <a class="btn" href="sidestore://source?url=https://gstandtv.github.io/ios/source.json">Add GrandStand to SideStore</a><br>
+<small>If that doesn't open SideStore: in SideStore go to <b>Sources › +</b> and paste <code>https://gstandtv.github.io/ios/source.json</code></small></li>
+<li>In SideStore, open <b>Browse</b>, find GrandStand and tap <b>Get</b> (LocalDevVPN needs to be connected).</li>
+<li>Open GrandStand. It shows this phone's device ID: send it to whoever gave you GrandStand, and it unlocks by itself once
+it's approved.</li>
+</ol>
+
+<h2>Keeping it working</h2>
+<ul>
+<li>Free Apple IDs sign apps for <b>7 days</b>. SideStore renews them: every few days, connect LocalDevVPN and open SideStore
+(or tap the days counter next to GrandStand under <b>My Apps</b>). If it does run out, GrandStand just won't open until it's
+renewed; nothing is lost.</li>
+<li>Updates show up in SideStore. Tap <b>Update</b>.</li>
+<li>Keep Developer Mode on: apps from SideStore won't open without it.</li>
+<li>A big iOS update can occasionally mean plugging into the computer once more and running iloader again.</li>
+<li>A free Apple ID can have 3 of these apps at a time (SideStore counts as one).</li>
+</ul>
+</main></body></html>

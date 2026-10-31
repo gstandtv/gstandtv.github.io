@@ -1,0 +1,36 @@
+{
+  "name": "GrandStand",
+  "identifier": "io.github.gstandtv",
+  "sourceURL": "https://gstandtv.github.io/ios/source.json",
+  "iconURL": "https://gstandtv.github.io/ios/icon.png",
+  "tintColor": "#0094FE",
+  "website": "https://gstandtv.github.io/ios/",
+  "apps": [
+    {
+      "name": "GrandStand",
+      "bundleIdentifier": "tv.grandstand.ios",
+      "developerName": "GrandStand",
+      "subtitle": "Live sport, TV, movies and replays",
+      "iconURL": "https://gstandtv.github.io/ios/icon.png",
+      "tintColor": "#0094FE",
+      "category": "entertainment",
+      "localizedDescription": "Live sport from every source in one place, free-to-air and sports channels, Twitch, full-game replays, and movies and TV shows (with a TorBox account).",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-10-31",
+          "size": 19950042,
+          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.1.ipa",
+          "localizedDescription": "First iPhone & iPad version: live sport, Live TV, Twitch, replays, and movies & TV with TorBox.",
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
