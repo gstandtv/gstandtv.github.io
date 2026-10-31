@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.5.15",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.15.apk",
-  "sha256": "290274b2cec08211217722f8ee93ac63e839dacc9e2728bd0dbdedfb74bf39b9",
+  "versionCode": 23,
+  "versionName": "0.5.16",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.16.apk",
+  "sha256": "c3b9b7e92d9ef92d2f56f55a25bf15e4de5f440c15988e3bc0fe8ce6a7ceadf0",
   "size": 19575941,
-  "notes": "RugbyBox, MMABox and CricWatch links play again. Live streams stay at 720p or better. The 1 GB Firestick no longer closes the app or freezes at startup."
+  "notes": "Movies & TV now uses TorBox only. Smoother box-site streams. Split screen: closing the second picture brings the first back to full screen. Tidier game names, and wheelchair and women's games no longer mixed up with others. New devices just send their device ID to get in."
 }
