@@ -17,21 +17,21 @@
       "localizedDescription": "Live sport from every source in one place, free-to-air and sports channels, Twitch, full-game replays, and movies and TV shows (with a TorBox account).",
       "versions": [
         {
+          "version": "0.1.3",
+          "buildVersion": "4",
+          "date": "2026-11-01",
+          "size": 20025068,
+          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.3.ipa",
+          "localizedDescription": "Other-language streams are hidden when there are English ones. TV channels (which may be showing something else) now sit at the bottom of the link list, marked 'TV channel'. Select all / Unselect all for your sports. F1 replays: Miami no longer mixed up with the US GP, and more races found. StreamFree links are back.",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.2",
           "buildVersion": "3",
           "date": "2026-11-01",
           "size": 20013122,
           "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.2.ipa",
           "localizedDescription": "Fixes streams going black (and cricket links cycling) after the app had been in the background: no need to close and reopen it any more. New: split screen (two games side by side, or one in the corner) and picture-in-picture you can browse the app under.",
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.1.1",
-          "buildVersion": "2",
-          "date": "2026-10-31",
-          "size": 19950042,
-          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.1.ipa",
-          "localizedDescription": "First iPhone & iPad version: live sport, Live TV, Twitch, replays, and movies & TV with TorBox.",
           "minOSVersion": "16.0"
         }
       ],
