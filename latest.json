@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.5.16",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.16.apk",
-  "sha256": "c3b9b7e92d9ef92d2f56f55a25bf15e4de5f440c15988e3bc0fe8ce6a7ceadf0",
+  "versionCode": 24,
+  "versionName": "0.5.17",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.17.apk",
+  "sha256": "a260c4744ef46d06d49d82520d933192962ba411df1f42342af73659ea07a76a",
   "size": 19575941,
-  "notes": "Movies & TV now uses TorBox only. Smoother box-site streams. Split screen: closing the second picture brings the first back to full screen. Tidier game names, and wheelchair and women's games no longer mixed up with others. New devices just send their device ID to get in."
+  "notes": "Split screen: closing the second picture no longer leaves a black screen. Other-language streams are hidden when there are English ones. TV channels (which may be showing something else) now sit at the bottom of the link list, marked 'TV channel'. Select all / Unselect all for your sports. F1 replays: Miami no longer mixed up with the US GP, and more races found. StreamFree links fixed."
 }
