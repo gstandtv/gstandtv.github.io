@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.5.17",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.17.apk",
-  "sha256": "a260c4744ef46d06d49d82520d933192962ba411df1f42342af73659ea07a76a",
-  "size": 19575941,
-  "notes": "Split screen: closing the second picture no longer leaves a black screen. Other-language streams are hidden when there are English ones. TV channels (which may be showing something else) now sit at the bottom of the link list, marked 'TV channel'. Select all / Unselect all for your sports. F1 replays: Miami no longer mixed up with the US GP, and more races found. StreamFree links fixed."
+  "versionCode": 25,
+  "versionName": "0.5.18",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.18.apk",
+  "sha256": "2b2a994a4ad832d46e58a0593e5a4bf2207343497a8f77ee7fa0524623e57db7",
+  "size": 19592325,
+  "notes": "Live sport on free-to-air TV now shows up in Home and Live Sport, with the TV channel as the first link on matching games. When a game moves between Seven and 7mate (or a sister channel), the player follows it, including into the next game of a double header."
 }
