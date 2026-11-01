@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.5.18",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.18.apk",
-  "sha256": "2b2a994a4ad832d46e58a0593e5a4bf2207343497a8f77ee7fa0524623e57db7",
+  "versionCode": 26,
+  "versionName": "0.5.19",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.19.apk",
+  "sha256": "f0ad8cce1ae007b6c9f55cd0733ade0f303ca155c8d4bb23cfbaf3734c614df4",
   "size": 19592325,
-  "notes": "Live sport on free-to-air TV now shows up in Home and Live Sport, with the TV channel as the first link on matching games. When a game moves between Seven and 7mate (or a sister channel), the player follows it, including into the next game of a double header."
+  "notes": "RugbyBox, MMABox and CricWatch links play again after the site changed its player."
 }
