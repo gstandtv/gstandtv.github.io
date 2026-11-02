@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.5.19",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.19.apk",
-  "sha256": "f0ad8cce1ae007b6c9f55cd0733ade0f303ca155c8d4bb23cfbaf3734c614df4",
+  "versionCode": 27,
+  "versionName": "0.5.20",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.20.apk",
+  "sha256": "6198fbdef587df19c1fc5fcd61765d9c30de84f6442d9d8f878a6e2a7ed5eece",
   "size": 19592325,
-  "notes": "RugbyBox, MMABox and CricWatch links play again after the site changed its player."
+  "notes": "Finished StreamFree events (like a UFC card hours after it ended) no longer show as live."
 }
