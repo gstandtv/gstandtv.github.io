@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.5.20",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.20.apk",
-  "sha256": "6198fbdef587df19c1fc5fcd61765d9c30de84f6442d9d8f878a6e2a7ed5eece",
-  "size": 19592325,
-  "notes": "Finished StreamFree events (like a UFC card hours after it ended) no longer show as live."
+  "versionCode": 28,
+  "versionName": "0.5.21",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.21.apk",
+  "sha256": "acc21f7b882f54d4ae12ec38dc802b745c93c9e848ea546d7bf9467ac92c7e75",
+  "size": 19608709,
+  "notes": "Boxing & UFC replays now offer proper HD copies through TorBox (e.g. DAZN 720p/1080p), ahead of the ok.ru ones. New MotoGP replays tab. ok.ru replays wait for a bigger buffer and change quality less often. Sections of the app can now be hidden per access group."
 }
