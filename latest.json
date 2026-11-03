@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.5.22",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.22.apk",
-  "sha256": "273005b3e6e3924bbbab25b107b4e3b95a0f51d89818e8652a34753da3284a69",
+  "versionCode": 30,
+  "versionName": "0.5.23",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.23.apk",
+  "sha256": "f6615f768b595fa977be29101b0228abf8bd97ee9f36ad09c2380491f003e50c",
   "size": 19625093,
-  "notes": "New Live TV: browse channels by country (Australia, NZ, USA, UK, Canada) and category (Sport, News, Movies and more), each with its logo and what's on now. Hundreds of extra US/UK channels, all playing here with no VPN. Favourite a channel with the Menu button (or hold OK), and a Favourites filter. Also: no more 'Skip recap' on a show's first episode, remove Twitch channels by holding OK, and smoother channel playback."
+  "notes": "Live TV: almost every channel now shows its logo and what's on now and next, including Fox Sports 507, beIN Sports 1-3 and all the Sky Sport NZ channels. Around 60 more English channels added (Nat Geo, Animal Planet, Discovery's Science and Travel, TSN, NFL RedZone, Willow, Nick, Sky Atlantic and more), and more foreign-language channels filtered out."
 }
