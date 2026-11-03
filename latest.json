@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.5.21",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.21.apk",
-  "sha256": "acc21f7b882f54d4ae12ec38dc802b745c93c9e848ea546d7bf9467ac92c7e75",
-  "size": 19608709,
-  "notes": "Boxing & UFC replays now offer proper HD copies through TorBox (e.g. DAZN 720p/1080p), ahead of the ok.ru ones. New MotoGP replays tab. ok.ru replays wait for a bigger buffer and change quality less often. Sections of the app can now be hidden per access group."
+  "versionCode": 29,
+  "versionName": "0.5.22",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.22.apk",
+  "sha256": "273005b3e6e3924bbbab25b107b4e3b95a0f51d89818e8652a34753da3284a69",
+  "size": 19625093,
+  "notes": "New Live TV: browse channels by country (Australia, NZ, USA, UK, Canada) and category (Sport, News, Movies and more), each with its logo and what's on now. Hundreds of extra US/UK channels, all playing here with no VPN. Favourite a channel with the Menu button (or hold OK), and a Favourites filter. Also: no more 'Skip recap' on a show's first episode, remove Twitch channels by holding OK, and smoother channel playback."
 }
