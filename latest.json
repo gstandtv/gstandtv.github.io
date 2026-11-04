@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.5.24",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.24.apk",
-  "sha256": "f98a69849cc6a45662c15b46da68dc267c55b6d6129eb652cef1ccbc78f60517",
+  "versionCode": 32,
+  "versionName": "0.5.25",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.25.apk",
+  "sha256": "643035384b26937a60583f310ca5d3ae7cf5b6eef0ffb48e90b1c85ef4402a59",
   "size": 19641477,
-  "notes": "Live TV: what's on now is on time for US, UK, Canadian and Foxtel channels (the guide had them 1-10 hours out)"
+  "notes": "Fixes GrandStand closing on 1 GB Firesticks since the Live TV update"
 }
