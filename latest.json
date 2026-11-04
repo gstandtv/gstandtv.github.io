@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.23",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.23.apk",
-  "sha256": "f6615f768b595fa977be29101b0228abf8bd97ee9f36ad09c2380491f003e50c",
-  "size": 19625093,
-  "notes": "Live TV: almost every channel now shows its logo and what's on now and next, including Fox Sports 507, beIN Sports 1-3 and all the Sky Sport NZ channels. Around 60 more English channels added (Nat Geo, Animal Planet, Discovery's Science and Travel, TSN, NFL RedZone, Willow, Nick, Sky Atlantic and more), and more foreign-language channels filtered out."
+  "versionCode": 31,
+  "versionName": "0.5.24",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.24.apk",
+  "sha256": "f98a69849cc6a45662c15b46da68dc267c55b6d6129eb652cef1ccbc78f60517",
+  "size": 19641477,
+  "notes": "Live TV: what's on now is on time for US, UK, Canadian and Foxtel channels (the guide had them 1-10 hours out)"
 }
