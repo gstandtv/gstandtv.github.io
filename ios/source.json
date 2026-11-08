@@ -17,21 +17,21 @@
       "localizedDescription": "Live sport from every source in one place, free-to-air and sports channels, Twitch, full-game replays, and movies and TV shows (with a TorBox account).",
       "versions": [
         {
+          "version": "0.1.11",
+          "buildVersion": "12",
+          "date": "2026-11-08",
+          "size": 20181366,
+          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.11.ipa",
+          "localizedDescription": "Fixes DaddyLive and VipRow channels not playing after DaddyLive's 7 Nov change",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.10",
           "buildVersion": "11",
           "date": "2026-11-06",
           "size": 20177560,
           "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.10.ipa",
           "localizedDescription": "Fixes RugbyBox, MMABox and CricWatch links not playing after their player changed",
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.1.9",
-          "buildVersion": "10",
-          "date": "2026-11-04",
-          "size": 20177527,
-          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.9.ipa",
-          "localizedDescription": "Live TV: what's on now is on time for US, UK, Canadian and Foxtel channels (the guide had them 1-10 hours out)",
           "minOSVersion": "16.0"
         }
       ],
