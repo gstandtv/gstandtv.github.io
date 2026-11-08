@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.5.26",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.26.apk",
-  "sha256": "f3e44f14361e3c25f3455c62a221d8fc187bef86af6c41ef86830019eecc2b8c",
+  "versionCode": 34,
+  "versionName": "0.5.27",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.27.apk",
+  "sha256": "3842d70625f7d578d095c8a5004c9e91108de62b0a8e02877ad7656e57c5ce2b",
   "size": 19641477,
-  "notes": "Fixes RugbyBox, MMABox and CricWatch links not playing after their player changed"
+  "notes": "Fixes DaddyLive and VipRow channels not playing after DaddyLive's 7 Nov change"
 }
