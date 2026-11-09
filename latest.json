@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.5.27",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.27.apk",
-  "sha256": "3842d70625f7d578d095c8a5004c9e91108de62b0a8e02877ad7656e57c5ce2b",
-  "size": 19641477,
-  "notes": "Fixes DaddyLive and VipRow channels not playing after DaddyLive's 7 Nov change"
+  "versionCode": 35,
+  "versionName": "0.5.28",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.28.apk",
+  "sha256": "a2e5a091d227d381cc6f41d495f779de925c0458c572811c0488045ba42ae0ef",
+  "size": 19641481,
+  "notes": "Stops playing when the Firestick goes to sleep or you press Home during a stream"
 }
