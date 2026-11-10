@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "0.5.29",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.29.apk",
-  "sha256": "bdffa9405d4b1987da3a1da5280d82ac03c515e5a5e496eac893368f998113d9",
+  "versionCode": 37,
+  "versionName": "0.5.30",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.30.apk",
+  "sha256": "4709dc16823b01337fcd2a95ad456c96e46557481be7b2027145604727005b31",
   "size": 19657861,
-  "notes": "New channels in Live TV: Sky Sports, TNT, ESPN, Fox Sports and more from a new source, plus free movie channels from Plex and Samsung TV Plus. DaddyLive's channels are gone (they now need a human check)"
+  "notes": "Live TV now shows what's on for the Plex and Samsung TV Plus channels (movie channels included), not just Live"
 }
