@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.5.28",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.28.apk",
-  "sha256": "a2e5a091d227d381cc6f41d495f779de925c0458c572811c0488045ba42ae0ef",
-  "size": 19641481,
-  "notes": "Stops playing when the Firestick goes to sleep or you press Home during a stream"
+  "versionCode": 36,
+  "versionName": "0.5.29",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.29.apk",
+  "sha256": "bdffa9405d4b1987da3a1da5280d82ac03c515e5a5e496eac893368f998113d9",
+  "size": 19657861,
+  "notes": "New channels in Live TV: Sky Sports, TNT, ESPN, Fox Sports and more from a new source, plus free movie channels from Plex and Samsung TV Plus. DaddyLive's channels are gone (they now need a human check)"
 }
