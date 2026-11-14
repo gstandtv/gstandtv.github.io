@@ -19,7 +19,7 @@
         {
           "version": "0.1.15",
           "buildVersion": "16",
-          "date": "2026-11-15",
+          "date": "2026-11-14T21:00:00Z",
           "size": 20297026,
           "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.15.ipa",
           "localizedDescription": "Games with no working link are hidden, and Home opens straight away. US games get their real TV channel (ESPN, ABC, NBC, CBS, FOX, FS1, ACC/SEC/Big Ten Network). UFC Fight Pass and other channels start quicker and buffer less. Spanish/other-language streams filtered out. Behind the scenes: sites that move can be fixed without an update, a backup copy of the update site, and automatic problem reports (nothing personal)",
@@ -28,7 +28,7 @@
         {
           "version": "0.1.14",
           "buildVersion": "15",
-          "date": "2026-11-15",
+          "date": "2026-11-14T08:00:00Z",
           "size": 20255276,
           "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.14.ipa",
           "localizedDescription": "DaddyLive's channels are back (Fox Sports 501-507, Sky Sports, Sky Sport NZ, TNT, ESPN and hundreds more), with cdnlivetv as an automatic backup on each. English only: no foreign channels in Live TV or on games. Tidier Live TV categories (sport networks, movies, crime, food & lifestyle)",
