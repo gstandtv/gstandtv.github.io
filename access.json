@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "salt": "220bb46666845d72b4449e1d4b16c100",
   "iterations": 50000,
   "codes": [
@@ -15,7 +15,9 @@
     "8973c0ce3efb81473b14571414977aea66a34932a1df3f5fd49c60f9586cbccb",
     "8a1d6f3c08dff9645f093f8babb05bc6920f621dab746f91678b96a27b7286f0",
     "afda6d178dc74be81098ef0351e01f12803b98877a07f1d9f199844588f4a9fc",
+    "d6653edc5eb55515fd65b6762d62d32ca8d5ff08899dcc693684df39adba38c3",
     "d78c470ac147c7cffea65197e6b769a80fddd1d92cab5da05a18d65c959fb33d"
   ],
-  "updated": "2026-11-01T00:40:42Z"
+  "hidden": {},
+  "updated": "2026-11-14T21:23:10Z"
 }
