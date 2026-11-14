@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "0.5.31",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.31.apk",
-  "sha256": "cbb8bcd643c8e82b93a3fc91c715bd5a6bd46ef42901b8300de6ed2fa40ce660",
-  "size": 19657861,
-  "notes": "DaddyLive's channels are back (Fox Sports 501-507, Sky Sports, Sky Sport NZ, TNT, ESPN and hundreds more), with cdnlivetv as an automatic backup on each. English only: no foreign channels in Live TV or on games. Tidier Live TV categories (sport networks, movies, crime, food & lifestyle)"
+  "versionCode": 39,
+  "versionName": "0.5.32",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.32.apk",
+  "sha256": "96e7c111e4ba944e496506011f33db630e8fe137a74bc46604e27ad3e204142d",
+  "size": 19674249,
+  "notes": "Games with no working link are hidden, and Home opens straight away. US games get their real TV channel (ESPN, ABC, NBC, CBS, FOX, FS1, ACC/SEC/Big Ten Network). UFC Fight Pass and other channels start quicker and buffer less. Spanish/other-language streams filtered out. Behind the scenes: sites that move can be fixed without an update, a backup copy of the update site, and automatic problem reports (nothing personal)"
 }
