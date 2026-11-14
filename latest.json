@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.5.30",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.30.apk",
-  "sha256": "4709dc16823b01337fcd2a95ad456c96e46557481be7b2027145604727005b31",
+  "versionCode": 38,
+  "versionName": "0.5.31",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.31.apk",
+  "sha256": "cbb8bcd643c8e82b93a3fc91c715bd5a6bd46ef42901b8300de6ed2fa40ce660",
   "size": 19657861,
-  "notes": "Live TV now shows what's on for the Plex and Samsung TV Plus channels (movie channels included), not just Live"
+  "notes": "DaddyLive's channels are back (Fox Sports 501-507, Sky Sports, Sky Sport NZ, TNT, ESPN and hundreds more), with cdnlivetv as an automatic backup on each. English only: no foreign channels in Live TV or on games. Tidier Live TV categories (sport networks, movies, crime, food & lifestyle)"
 }
