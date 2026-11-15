@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "0.5.34",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.34.apk",
-  "sha256": "bf666aa235f354c6e76b232768d6f2bce24f0602ed843210a41ebe4c06387cde",
-  "size": 19707017,
-  "notes": "Games on free-to-air show as live as soon as the TV coverage starts, so they're on Home before kick-off. Listings in other languages are hidden."
+  "versionCode": 42,
+  "versionName": "0.5.35",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.35.apk",
+  "sha256": "a1da4984436575324082b4039464c1d0652b3c218c9d8c457b6399a62a6e83c1",
+  "size": 19707013,
+  "notes": "TV channels like HBO USA no longer keep jumping back to live. WWE PPV page only shows when a premium event is on."
 }
