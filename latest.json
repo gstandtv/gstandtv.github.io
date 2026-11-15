@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "0.5.33",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.33.apk",
-  "sha256": "3f2204484772efb45494bcbe3828f275a53bd65f7f04ec947a508a775c090f34",
-  "size": 19707013,
-  "notes": "New look: menu along the top, big picture tiles for games and sports, and a full-width feature at the top of Home and Movies. Wrestling added (WWE Raw, NXT, PPV events, WWE Network). Continue watching now follows you between TVs and phones on the same TorBox account, and holding OK on a show lets you pick an episode. Second-stream list shows every live game. Fox Cricket has two backup links."
+  "versionCode": 41,
+  "versionName": "0.5.34",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.34.apk",
+  "sha256": "bf666aa235f354c6e76b232768d6f2bce24f0602ed843210a41ebe4c06387cde",
+  "size": 19707017,
+  "notes": "Games on free-to-air show as live as soon as the TV coverage starts, so they're on Home before kick-off. Listings in other languages are hidden."
 }
