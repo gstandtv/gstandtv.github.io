@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "0.5.32",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.32.apk",
-  "sha256": "96e7c111e4ba944e496506011f33db630e8fe137a74bc46604e27ad3e204142d",
-  "size": 19674249,
-  "notes": "Games with no working link are hidden, and Home opens straight away. US games get their real TV channel (ESPN, ABC, NBC, CBS, FOX, FS1, ACC/SEC/Big Ten Network). UFC Fight Pass and other channels start quicker and buffer less. Spanish/other-language streams filtered out. Behind the scenes: sites that move can be fixed without an update, a backup copy of the update site, and automatic problem reports (nothing personal)"
+  "versionCode": 40,
+  "versionName": "0.5.33",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.33.apk",
+  "sha256": "3f2204484772efb45494bcbe3828f275a53bd65f7f04ec947a508a775c090f34",
+  "size": 19707013,
+  "notes": "New look: menu along the top, big picture tiles for games and sports, and a full-width feature at the top of Home and Movies. Wrestling added (WWE Raw, NXT, PPV events, WWE Network). Continue watching now follows you between TVs and phones on the same TorBox account, and holding OK on a show lets you pick an episode. Second-stream list shows every live game. Fox Cricket has two backup links."
 }
