@@ -80,6 +80,10 @@ def top_new_movies():
                 break
         if not match or not str(match.get('id', '')).startswith('tt'):
             continue
+        # The chart has old favourites too (Harry Potter, The Hunger Games): "new" is this year's and last year's
+        y = re.match(r'\d{4}', match.get('releaseInfo') or match.get('year') or year or '')
+        if not y or int(y.group()) < TODAY.year - 1:
+            continue
         art = e.get('im:image', [{}])[-1].get('label')
         out.append(item(match['id'], 'movie', match['name'], year or None, match.get('poster') or art))
     return out
