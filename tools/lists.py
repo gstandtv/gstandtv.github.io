@@ -120,7 +120,7 @@ def schedule(first, last):
 
 def tv_item(s, upcoming):
     what = 'New series' if s['season'] == 1 else f"Season {s['season']}"
-    note = ' · '.join(x for x in (what, s['where'], day(s['when']) if upcoming else None) if x)
+    note = ' · '.join(x for x in (what, s['where']) if x)
     return item(s['imdb'], 'series', s['name'], s['year'] or None, s['poster'], note, s['when'])
 
 
@@ -205,7 +205,7 @@ def cinemas_and_soon():
         imdb = (f.get('external_ids') or {}).get('imdb_id')
         when = au_cinema_date(f.get('release_dates'))
         if imdb and when and when > TODAY:
-            soon.append(item(imdb, 'movie', m['title'], str(when.year), poster(m.get('poster_path')), f"In cinemas {day(when)}", when))
+            soon.append(item(imdb, 'movie', m['title'], str(when.year), poster(m.get('poster_path')), "Cinema release", when))
     soon.sort(key=lambda i: i['date'])
     return now[:40], soon[:40]
 
