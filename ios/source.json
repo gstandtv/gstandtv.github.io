@@ -17,21 +17,21 @@
       "localizedDescription": "Live sport from every source in one place, free-to-air and sports channels, Twitch, full-game replays, and movies and TV shows (with a TorBox account).",
       "versions": [
         {
+          "version": "0.1.19",
+          "buildVersion": "20",
+          "size": 20369876,
+          "date": "2026-11-20T09:14:28Z",
+          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.19.ipa",
+          "localizedDescription": "Samsung TV Plus movie channels that won't play in Australia are no longer listed.",
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.1.18",
           "buildVersion": "19",
           "size": 20368538,
           "date": "2026-11-15T20:05:30Z",
           "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.18.ipa",
           "localizedDescription": "TV channels like HBO USA no longer keep jumping back to live. WWE PPV page only shows when a premium event is on.",
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.1.17",
-          "buildVersion": "18",
-          "size": 20368730,
-          "date": "2026-11-15T08:33:12Z",
-          "downloadURL": "https://gstandtv.github.io/ios/GrandStand-0.1.17.ipa",
-          "localizedDescription": "Games on free-to-air show as live as soon as the TV coverage starts, so they're on Home before kick-off. Listings in other languages are hidden.",
           "minOSVersion": "16.0"
         }
       ],
