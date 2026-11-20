@@ -1,0 +1,35 @@
+name: lists
+# The Movies & TV lists (lists.json): new, upcoming, in cinemas. See tools/lists.py.
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lists
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build lists.json
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: python tools/lists.py
+      - name: Publish if changed
+        run: |
+          git add lists.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git -c user.name=gstandtv -c user.email=343703114+gstandtv@users.noreply.github.com commit -q -m "Movies & TV lists"
+          # A release may have landed meanwhile
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
+          exit 1
