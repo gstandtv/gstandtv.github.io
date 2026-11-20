@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "0.5.35",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.35.apk",
-  "sha256": "a1da4984436575324082b4039464c1d0652b3c218c9d8c457b6399a62a6e83c1",
-  "size": 19707013,
-  "notes": "TV channels like HBO USA no longer keep jumping back to live. WWE PPV page only shows when a premium event is on."
+  "versionCode": 43,
+  "versionName": "0.5.36",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.36.apk",
+  "sha256": "5a1cc47f0435e1cbb515e29f5101243ecf221050bc80acd96fac1768bf3a64e4",
+  "size": 19707017,
+  "notes": "Samsung TV Plus movie channels that won't play in Australia are no longer listed."
 }
