@@ -203,7 +203,7 @@ def cinemas_and_soon():
         imdb = (f.get('external_ids') or {}).get('imdb_id')
         when = au_cinema_date(f.get('release_dates'))
         if imdb and when and TODAY - datetime.timedelta(days=60) <= when <= TODAY:
-            now.append(item(imdb, 'movie', m['title'], str(when.year), poster(m.get('poster_path')), f"In cinemas since {day(when)}", when))
+            now.append(item(imdb, 'movie', m['title'], str(when.year), poster(m.get('poster_path')), f"In cinemas {when.day} {when:%b}", when))
     for m in movie_pages('/movie/upcoming', 4, region='AU'):
         f = movie_full(m)
         imdb = (f.get('external_ids') or {}).get('imdb_id')
