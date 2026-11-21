@@ -216,13 +216,16 @@ def cinemas_and_soon():
 
 def top_rated():
     movies, shows = [], []
-    for m in movie_pages('/movie/top_rated', 4):
+    # TMDB's own top_rated lets in brand-new titles on a few hundred early votes; the all-time best need lots of votes.
+    for m in movie_pages('/discover/movie', 4, sort_by='vote_average.desc', **{'vote_count.gte': 5000, 'with_original_language': 'en'}):
         imdb = (tmdb(f"/movie/{m['id']}/external_ids") or {}).get('imdb_id')
         if imdb:
             movies.append(item(imdb, 'movie', m['title'], (m.get('release_date') or '')[:4] or None, poster(m.get('poster_path'))))
     seen = set()
     for p in range(1, 5):
-        for s in (tmdb('/tv/top_rated', page=p) or {}).get('results', []):
+        # No talk shows or news (10767, 10763).
+        for s in (tmdb('/discover/tv', page=p, sort_by='vote_average.desc', with_original_language='en', without_genres='10767,10763',
+                       **{'vote_count.gte': 1500}) or {}).get('results', []):
             if s['id'] in seen or s.get('original_language') != 'en':
                 continue
             seen.add(s['id'])
