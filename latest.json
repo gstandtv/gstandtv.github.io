@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "0.5.36",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.36.apk",
-  "sha256": "5a1cc47f0435e1cbb515e29f5101243ecf221050bc80acd96fac1768bf3a64e4",
-  "size": 19707017,
-  "notes": "Samsung TV Plus movie channels that won't play in Australia are no longer listed."
+  "versionCode": 44,
+  "versionName": "0.5.37",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.37.apk",
+  "sha256": "cc29300570a078cc404b0b4c281bd2c0a025f5b53090dfc4b58784f5ad928477",
+  "size": 19739781,
+  "notes": "Movies & TV has been redone: Continue watching at the top, Movies tiles on the left and TV Shows on the right, each opening its own page. New lists: Top new movies, In cinemas, Coming soon (with release dates), New seasons, Top rated, Kids & family, Crime & drama and Genres. A show's page now says when its next episode is on. Search is in the menu bar."
 }
