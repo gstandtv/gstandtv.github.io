@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "0.5.37",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.37.apk",
-  "sha256": "cc29300570a078cc404b0b4c281bd2c0a025f5b53090dfc4b58784f5ad928477",
-  "size": 19739781,
-  "notes": "Movies & TV has been redone: Continue watching at the top, Movies tiles on the left and TV Shows on the right, each opening its own page. New lists: Top new movies, In cinemas, Coming soon (with release dates), New seasons, Top rated, Kids & family, Crime & drama and Genres. A show's page now says when its next episode is on. Search is in the menu bar."
+  "versionCode": 45,
+  "versionName": "0.5.38",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.38.apk",
+  "sha256": "9f67e5b0190e819bde7f7ceb241f5e38ea876ac24e66e6ef73f940689880786f",
+  "size": 19739785,
+  "notes": "Settings has a Close GrandStand button at the bottom, for PCs running GrandStand with only a mouse."
 }
