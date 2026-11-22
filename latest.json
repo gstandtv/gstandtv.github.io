@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "0.5.38",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.38.apk",
-  "sha256": "9f67e5b0190e819bde7f7ceb241f5e38ea876ac24e66e6ef73f940689880786f",
-  "size": 19739785,
-  "notes": "Settings has a Close GrandStand button at the bottom, for PCs running GrandStand with only a mouse."
+  "versionCode": 46,
+  "versionName": "0.5.39",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.39.apk",
+  "sha256": "f33eff9a3f7a85859950be5485636300701e3742a9bc0896635602f6d2fdd766",
+  "size": 45109320,
+  "notes": "Replays has three new tabs: Rugby (this week's Tests, Super Rugby, Premiership, URC, Top 14, NPC and more), Motorsport (F1, MotoGP, IndyCar, NASCAR and more, no TorBox needed) and MLB."
 }
