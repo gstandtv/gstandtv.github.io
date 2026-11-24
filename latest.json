@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "0.5.39",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.39.apk",
-  "sha256": "f33eff9a3f7a85859950be5485636300701e3742a9bc0896635602f6d2fdd766",
-  "size": 45109320,
-  "notes": "Replays has three new tabs: Rugby (this week's Tests, Super Rugby, Premiership, URC, Top 14, NPC and more), Motorsport (F1, MotoGP, IndyCar, NASCAR and more, no TorBox needed) and MLB."
+  "versionCode": 47,
+  "versionName": "0.5.40",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.40.apk",
+  "sha256": "29a98cc283152964c700576a54cf66efed6e468548ea13a95bd2f21ee386907a",
+  "size": 45109324,
+  "notes": "Live games now test their links when you open the game page: the smoothest stream moves to the top and links that aren't on air yet go to the bottom. The links list on the right now scrolls, so you can reach every link."
 }
