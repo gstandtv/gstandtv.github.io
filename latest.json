@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "0.5.40",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.40.apk",
-  "sha256": "29a98cc283152964c700576a54cf66efed6e468548ea13a95bd2f21ee386907a",
-  "size": 45109324,
-  "notes": "Live games now test their links when you open the game page: the smoothest stream moves to the top and links that aren't on air yet go to the bottom. The links list on the right now scrolls, so you can reach every link."
+  "versionCode": 48,
+  "versionName": "0.5.41",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.41.apk",
+  "sha256": "4b8cf419982257684fd439ef37d3ab0d5cc3592d505b9508396845dac8c5ffdf",
+  "size": 45109320,
+  "notes": "NRL, UFC and cricket links from RugbyBox, MmaBox and CricWatch play again (those sites changed their player, and every game showed as not on air yet)."
 }
