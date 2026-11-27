@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "0.5.41",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.41.apk",
-  "sha256": "4b8cf419982257684fd439ef37d3ab0d5cc3592d505b9508396845dac8c5ffdf",
-  "size": 45109320,
-  "notes": "NRL, UFC and cricket links from RugbyBox, MmaBox and CricWatch play again (those sites changed their player, and every game showed as not on air yet)."
+  "versionCode": 49,
+  "versionName": "0.5.42",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.42.apk",
+  "sha256": "268b4240ea78b56aac5dc363fffd642002f300486df262f57071d27a7967ccf3",
+  "size": 45109324,
+  "notes": "NFL, NBA, UFC, WWE, NRL and cricket links from the box sites and StreamFree play again (both sites changed how their players work this morning)."
 }
