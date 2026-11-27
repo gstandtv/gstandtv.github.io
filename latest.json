@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "0.5.42",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.42.apk",
-  "sha256": "268b4240ea78b56aac5dc363fffd642002f300486df262f57071d27a7967ccf3",
-  "size": 45109324,
-  "notes": "NFL, NBA, UFC, WWE, NRL and cricket links from the box sites and StreamFree play again (both sites changed how their players work this morning)."
+  "versionCode": 50,
+  "versionName": "0.5.43",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.43.apk",
+  "sha256": "7b6c0474f5aaf200807a5ed5a65aa21a79a68ea290f7ccb9efd59b0bb1cd1dc6",
+  "size": 45125708,
+  "notes": "Cricket Australia added: free Sheffield Shield and domestic cricket in HD, no login. Links that can't ever play (copy-protected or unsupported feeds) now drop off a game's list instead of sitting at the bottom."
 }
