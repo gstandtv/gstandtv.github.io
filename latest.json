@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "0.5.43",
-  "apk": "https://gstandtv.github.io/GrandStand-0.5.43.apk",
-  "sha256": "7b6c0474f5aaf200807a5ed5a65aa21a79a68ea290f7ccb9efd59b0bb1cd1dc6",
-  "size": 45125708,
-  "notes": "Cricket Australia added: free Sheffield Shield and domestic cricket in HD, no login. Links that can't ever play (copy-protected or unsupported feeds) now drop off a game's list instead of sitting at the bottom."
+  "versionCode": 51,
+  "versionName": "0.5.44",
+  "apk": "https://gstandtv.github.io/GrandStand-0.5.44.apk",
+  "sha256": "9a4a08f72cfa2e2868f6133ef08fc1a0be7d694513356355cb79ea29ae8c6147",
+  "size": 45125704,
+  "notes": "Cricket schedule is more accurate. A Sheffield Shield or Big Bash match that's finished (or ended early) no longer shows as live on a TV channel that's since moved to other sport \u2014 it drops off once Cricket Australia marks it over. And Cricket Australia games that only have radio commentary (no video) no longer appear as a stream."
 }
